@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Automatizare Sera</string>
+
+    <string name="ajustare_automat">Ajustare automată</string>
+
+    <string name="valv_fertilizator">Valvă fertilizator</string>
+    <string name="luminozitate_lux">Luminozitate (lux):</string>
+    <string name="recomandat">Recomandat:</string>
+
+    <string name="lumin">Lumină</string>
+    <string name="temperatura_c">Temperatura (°C):</string>
+
+
+    <string name="ncalzitor">Încalzitor</string>
+    <string name="valv_ap">Valvă apă</string>
+    <string name="fertilitate_sol_s_cm">Fertilitate sol (µS/cm):</string>
+
+
+    <string name="procentaj_baterie">Procentaj Baterie (%):</string>
+    <string name="umiditate_sol">Umiditate sol (%):</string>
+    <string name="_10_20">10 - 20</string>
+</resources>
